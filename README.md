@@ -11,8 +11,8 @@ This Library Management System is a desktop application that allows you to manag
 
 ## Screenshot
 # Library Management System
+![image](https://github.com/user-attachments/assets/fa697513-b1a3-435e-9737-8e3b42b95341)
 
-![image](https://github.com/user-attachments/assets/5d0d6c98-30ed-4283-a235-08c588394788)
 
 
 This Library Management System is a desktop application that allows you to manage books, users, and loans with a user-friendly interface. It is built with the purpose of helping communities easily manage their libraries.
